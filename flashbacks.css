@@ -1,0 +1,11 @@
+body {background-color:lightgrey;}
+
+h1 {font-size:40px;font-style:italic;
+background-color:black;color:red;padding:40px;}
+
+p{font-style:serif;}
+
+a:hover{color:red;
+  background-color:black;
+  text-decoration:underline;
+  font-style: italic;}
